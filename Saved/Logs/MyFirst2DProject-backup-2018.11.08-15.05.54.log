@@ -1,0 +1,1049 @@
+﻿Log file open, 11/08/18 14:59:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyFirst2DProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.322217
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.167s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal/Unrealengine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.08-06.59.27:571][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.08-06.59.27:571][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.08-06.59.27:596][  0]LogHAL: Display: Platform has ~ 8 GB [8474361856 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.08-06.59.27:596][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.08-06.59.27:596][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.08-06.59.27:597][  0]LogInit: Computer: LAPTOP-JLSSE705
+[2018.11.08-06.59.27:597][  0]LogInit: User: 李仁杰
+[2018.11.08-06.59.27:597][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.08-06.59.27:597][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.11.08-06.59.27:597][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.08-06.59.27:597][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.08-06.59.27:597][  0]LogMemory: Process Physical Memory: 101.01 MB used, 101.01 MB peak
+[2018.11.08-06.59.27:597][  0]LogMemory: Process Virtual Memory: 89.57 MB used, 89.57 MB peak
+[2018.11.08-06.59.27:597][  0]LogMemory: Physical Memory: 3508.31 MB used,  4573.47 MB free, 8081.78 MB total
+[2018.11.08-06.59.27:597][  0]LogMemory: Virtual Memory: 4643.48 MB used,  4573.47 MB free, 134217728.00 MB total
+[2018.11.08-06.59.27:659][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.08-06.59.27:659][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.08-06.59.28:073][  0]LogStreaming: Display: Took  0.413s to InitEngineTextLocalization.
+[2018.11.08-06.59.28:073][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.08-06.59.28:142][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.08-06.59.28:142][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.08-06.59.28:525][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.08-06.59.28:525][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.08-06.59.28:971][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2018.11.08-06.59.28:971][  0]LogD3D11RHI:       4053/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.08-06.59.28:982][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.08-06.59.28:982][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.08-06.59.28:984][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.08-06.59.28:985][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.08-06.59.28:985][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.08-06.59.29:032][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.08-06.59.29:032][  0]LogD3D11RHI:     GPU DeviceId: 0x1427 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.08-06.59.29:032][  0]LogWindows: EnumDisplayDevices:
+[2018.11.08-06.59.29:032][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.08-06.59.29:033][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.08-06.59.29:033][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.08-06.59.29:034][  0]LogWindows:    3. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2018.11.08-06.59.29:034][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.11.08-06.59.29:034][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2018.11.08-06.59.29:034][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.08-06.59.29:034][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.08-06.59.29:034][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.08-06.59.29:087][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.08-06.59.29:131][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.08-06.59.29:132][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../unreal projects/MyFirst2DProject/Intermediate/Shaders/WorkingDirectory/10916/).
+[2018.11.08-06.59.29:132][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/李仁杰/AppData/Local/Temp/UnrealShaderWorkingDir/4BFC9A8848D91A620BA8859D69AF6871/'.
+[2018.11.08-06.59.29:525][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.08-06.59.29:539][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.08-06.59.29:555][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.08-06.59.29:571][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.08-06.59.29:588][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.08-06.59.29:603][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.08-06.59.29:617][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.08-06.59.29:632][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.08-06.59.29:638][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.08-06.59.29:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:726][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-06.59.29:728][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.08-06.59.29:796][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.08-06.59.29:796][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.08-06.59.29:824][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.08-06.59.29:824][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.08-06.59.29:839][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.08-06.59.29:854][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.08-06.59.29:870][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.08-06.59.29:884][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.08-06.59.29:893][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.08-06.59.29:893][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.08-06.59.29:957][  0]LogXGEController: Cleaning working directory: C:/Users/李仁杰/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.08-06.59.29:957][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.08-06.59.29:957][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.08-06.59.29:957][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.08-06.59.30:747][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.08-06.59.30:818][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/李仁杰/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.08-06.59.30:818][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/李仁杰/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.08-06.59.30:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../unreal projects/MyFirst2DProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.08-06.59.30:818][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.08-06.59.30:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../unreal projects/MyFirst2DProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.08-06.59.30:818][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.08-06.59.30:833][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.08-06.59.30:846][  0]LogDerivedDataCache: Using Local data cache path C:/Users/李仁杰/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.08-06.59.30:846][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.08-06.59.30:846][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.08-06.59.30:866][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.08-06.59.30:868][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.08-06.59.30:869][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.08-06.59.30:955][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.11.08-06.59.31:318][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.08-06.59.31:381][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.08-06.59.31:386][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.08-06.59.31:386][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.08-06.59.31:386][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.08-06.59.31:386][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.08-06.59.31:497][  0]LogNetVersion: MyFirst2DProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2512067949)
+[2018.11.08-06.59.32:078][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.080563 seconds
+[2018.11.08-06.59.32:086][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.08-06.59.32:086][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.08-06.59.32:086][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.08-06.59.33:161][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.08-06.59.33:175][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.08-06.59.33:341][  0]SourceControl: Source control is disabled
+[2018.11.08-06.59.33:341][  0]SourceControl: Source control is disabled
+[2018.11.08-06.59.33:343][  0]SourceControl: Source control is disabled
+[2018.11.08-06.59.33:346][  0]SourceControl: Source control is disabled
+[2018.11.08-06.59.33:530][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.08-06.59.33:596][  0]LogOcInput: OculusInput pre-init called
+[2018.11.08-06.59.33:672][  0]LogEngine: Initializing Engine...
+[2018.11.08-06.59.33:673][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.08-06.59.33:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.08-06.59.33:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.08-06.59.33:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.08-06.59.33:675][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.08-06.59.33:931][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.08-06.59.33:942][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.08-06.59.33:965][  0]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.08-06.59.35:198][  0]LogInit: FAudioDevice initialized.
+[2018.11.08-06.59.35:198][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.08-06.59.35:286][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/李仁杰/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.08-06.59.35:304][  0]LogInit: Texture streaming: Enabled
+[2018.11.08-06.59.35:321][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.08-06.59.35:345][  0]LogInit: Transaction tracking system initialized
+[2018.11.08-06.59.35:366][  0]BlueprintLog: New page: Editor Load
+[2018.11.08-06.59.35:441][  0]LocalizationService: Localization service is disabled
+[2018.11.08-06.59.35:754][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.08-06.59.35:754][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.08-06.59.35:754][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.08-06.59.35:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.08-06.59.35:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.08-06.59.35:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.08-06.59.35:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.08-06.59.35:886][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/MyFirst2DProject/Content/' took 0.02s
+[2018.11.08-06.59.35:886][  0]SourceControl: Source control is disabled
+[2018.11.08-06.59.35:886][  0]Cmd: MAP LOAD FILE="../../../../../../unreal projects/MyFirst2DProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-06.59.35:886][  0]LightingResults: New page: Lighting Build
+[2018.11.08-06.59.35:889][  0]MapCheck: New page: Map Check
+[2018.11.08-06.59.35:889][  0]LightingResults: New page: Lighting Build
+[2018.11.08-06.59.36:345][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.08-06.59.36:378][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-06.59.36:406][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-06.59.36:485][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.514ms to complete.
+[2018.11.08-06.59.36:485][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.598
+[2018.11.08-06.59.36:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-06.59.36:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-06.59.36:649][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-06.59.36:658][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-06.59.36:666][  0]LogCollectionManager: Loaded 0 collections in 0.001419 seconds
+[2018.11.08-06.59.36:711][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/MyFirst2DProject/Saved/Collections/' took 0.01s
+[2018.11.08-06.59.36:712][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/MyFirst2DProject/Content/Developers/李仁杰/Collections/' took 0.01s
+[2018.11.08-06.59.36:712][  0]LogFileCache: Scanning file cache for directory 'D:/unreal projects/MyFirst2DProject/Content/Collections/' took 0.01s
+[2018.11.08-06.59.36:712][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.08-06.59.36:721][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2572 classes and 603 folders.
+[2018.11.08-06.59.36:729][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.08-06.59.36:803][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.08-06.59.36:807][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.08-06.59.36:827][  0]LogSlate: Took 0.000988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.08-06.59.36:832][  0]LogSlate: Took 0.000634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.08-06.59.36:844][  0]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.08-06.59.36:954][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.11.08-06.59.37:000][  0]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.08-06.59.37:122][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.08-06.59.37:122][  0]LogLoad: (Engine Initialization) Total time: 11.89 seconds
+[2018.11.08-06.59.37:122][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.08-06.59.37:151][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.08-06.59.37:178][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.08-06.59.37:229][  1]LogAssetRegistry: Asset discovery search completed in 6.2965 seconds
+[2018.11.08-06.59.37:231][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.08-06.59.37:231][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.11.08-06.59.39:545][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-06.59.41:212][226]LogSlate: Took 0.000533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.08-06.59.41:223][226]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2018.11.08-06.59.41:247][226]Cmd: MAP LOAD FILE="../../../../../../unreal projects/MyFirst2DProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-06.59.41:248][226]LightingResults: New page: Lighting Build
+[2018.11.08-06.59.41:249][226]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2018.11.08-06.59.41:251][226]MapCheck: New page: Map Check
+[2018.11.08-06.59.41:251][226]LightingResults: New page: Lighting Build
+[2018.11.08-06.59.41:346][226]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.08-06.59.41:363][226]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-06.59.41:426][226]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-06.59.41:509][226]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.73ms to complete.
+[2018.11.08-06.59.41:511][226]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.263
+[2018.11.08-06.59.43:678][349]LogBlueprint: Warning: [Compiler choseActor] No delegate property found for  NewEventDispatcher_0
+[2018.11.08-06.59.43:682][349]LogBlueprint: Warning: [Compiler choseActor] [0018.45] Compile of choseActor successful, but with 1 Warning(s) [in 20 ms] (/Game/2DSideScrollerBP/Maps/choseActor.choseActor)
+[2018.11.08-06.59.43:712][349]LogUObjectGlobals: Warning: Guid referenced by BrushComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.GlobalPostProcessSettings.BrushComponent0 is already used by BrushComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.GlobalPostProcessSettings.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-06.59.43:713][349]LogUObjectGlobals: Warning: Guid referenced by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.Background_Sprite_48.RenderComponent is already used by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Background_Sprite_48.RenderComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-06.59.43:713][349]LogUObjectGlobals: Warning: Guid referenced by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.LeftEdge.RenderComponent is already used by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.LeftEdge.RenderComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-06.59.43:713][349]LogUObjectGlobals: Warning: Guid referenced by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.RightEdge.RenderComponent is already used by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.RightEdge.RenderComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-06.59.43:765][349]LogAIModule: Creating AISystem for world selectLevel
+[2018.11.08-06.59.43:775][349]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel
+[2018.11.08-06.59.43:804][349]Cmd: MAP LOAD FILE="../../../../../../unreal projects/MyFirst2DProject/Content/2DSideScrollerBP/Maps/selectLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-06.59.43:804][349]LightingResults: New page: Lighting Build
+[2018.11.08-06.59.43:805][349]LoadErrors: New page: Loading map: selectLevel.umap
+[2018.11.08-06.59.43:806][349]MapCheck: New page: Map Check
+[2018.11.08-06.59.43:806][349]LightingResults: New page: Lighting Build
+[2018.11.08-06.59.43:838][349]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-06.59.43:897][349]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-06.59.43:983][349]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.11ms to complete.
+[2018.11.08-06.59.43:984][349]LogFileHelpers: Loading map 'selectLevel' took 0.180
+[2018.11.08-06.59.49:473][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.59.49:934][698]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-06.59.49:956][698]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel'
+[2018.11.08-06.59.49:956][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-06.59.49:969][698]PIE: New page: PIE session: selectLevel (Nov 8, 2018, 10:59:49 PM)
+[2018.11.08-06.59.49:970][698]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_selectLevel
+[2018.11.08-06.59.49:973][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003051s)
+[2018.11.08-06.59.49:973][698]LogAIModule: Creating AISystem for world selectLevel
+[2018.11.08-06.59.49:974][698]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.11.08-06.59.49:974][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel to /Game/2DSideScrollerBP/Maps/UEDPIE_0_selectLevel.selectLevel (0.003853s)
+[2018.11.08-06.59.49:997][698]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	GameINS_C /Engine/Transient.UnrealEdEngine_0:GameINS_C_0
+	Function /Game/GameINS.GameINS_C:ExecuteUbergraph_GameINS:103E
+[2018.11.08-06.59.50:001][698]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.08-06.59.50:023][698]LogInit: FAudioDevice initialized.
+[2018.11.08-06.59.50:064][698]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.08-06.59.50:067][698]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_selectLevel.selectLevel up for play (max tick rate 60) at 2018.11.08-14.59.50
+[2018.11.08-06.59.50:067][698]LogWorld: Bringing up level for play took: 0.001499
+[2018.11.08-06.59.50:085][698]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.08-06.59.50:086][698]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_selectLevel -0.009
+[2018.11.08-06.59.50:086][698]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel'
+[2018.11.08-06.59.50:087][698]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_selectLevel.selectLevel:PersistentLevel.2DSideScrollerCharacter_254 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2018.11.08-06.59.54:831][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-06.59.54:914][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel'
+[2018.11.08-06.59.54:914][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-06.59.54:948][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-06.59.54:949][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel' with GeneratedClass '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel'
+[2018.11.08-06.59.54:979][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-06.59.55:023][989]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.08-06.59.56:219][ 54]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.selectLevel
+[2018.11.08-06.59.56:812][ 54]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.08-06.59.57:605][ 54]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.08-07.00.07:909][654]LogSlate: Window 'selectLevel - Level Blueprint Editor' being destroyed
+[2018.11.08-07.00.07:916][654]LogSlate: Window 'selectLevel - Level Blueprint Editor' being destroyed
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block:ColorSwith.K2Node_FunctionEntry_0' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:ClickOnBlock' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:ColorNeeded' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:Compared Actor' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:Switch Color' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:Selected Block Color' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:Count' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:color' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:WhetherHaveBeenCalled' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:ObjectNearbyNumber' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:ObjectNumber' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:DefaultSceneRoot' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:blue' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:green' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:red' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:purple' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:UserConstructionScript' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C:ColorSwith' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.SKEL_Block_C' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:ColorNeeded' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:Compared Actor' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:Switch Color' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:Selected Block Color' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:Count' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:color' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:WhetherHaveBeenCalled' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:ObjectNearbyNumber' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:ObjectNumber' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:DefaultSceneRoot' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:blue' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:green' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:red' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:purple' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:883][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:ClickOnBlock' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:884][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:UserConstructionScript' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:884][820]LogMetaData: Removing '/Game/LRJ/Block.Block_C:ColorSwith' ref from Metadata '/Game/Block.PackageMetaData'
+[2018.11.08-07.01.35:900][820]LogMetaData: Removing '/Game/LRJ/Block_ref.Block_ref' ref from Metadata '/Game/Block_ref.PackageMetaData'
+[2018.11.08-07.01.35:900][820]LogMetaData: Removing '/Game/LRJ/Block_ref.Block_ref:Block_ref_4_1159E6ED4F5F599B1F5DF98455146DD6' ref from Metadata '/Game/Block_ref.PackageMetaData'
+[2018.11.08-07.01.35:912][820]LogMetaData: Removing '/Game/LRJ/Chapter1.Chapter1' ref from Metadata '/Game/Chapter1.PackageMetaData'
+[2018.11.08-07.01.35:912][820]LogMetaData: Removing '/Game/LRJ/Chapter1.Chapter1:Block_ref_array_21_070AB267482EE1E277B325B70FCC6C84' ref from Metadata '/Game/Chapter1.PackageMetaData'
+[2018.11.08-07.01.35:912][820]LogMetaData: Removing '/Game/LRJ/Chapter1.Chapter1:OriginalColor_16_5C1A9F2945E75FAB25AE02A7905B4DCB' ref from Metadata '/Game/Chapter1.PackageMetaData'
+[2018.11.08-07.01.35:912][820]LogMetaData: Removing '/Game/LRJ/Chapter1.Chapter1:MaxStep_12_108247254A6BC6B37AA571B93D679A5A' ref from Metadata '/Game/Chapter1.PackageMetaData'
+[2018.11.08-07.01.35:912][820]LogMetaData: Removing '/Game/LRJ/Chapter1.Chapter1:ColorNeed_11_BED8BD2246D69BF59E557FBD781BF380' ref from Metadata '/Game/Chapter1.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container:ColorSwitch.K2Node_FunctionEntry_0' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container:ClickOnContainer.K2Node_FunctionResult_0' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container:ClickOnContainer.K2Node_FunctionEntry_0' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:Colors' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:DefaultSceneRoot' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:Green' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:Red' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:Purple' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:Blue' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:UserConstructionScript' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C:ColorSwitch' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.SKEL_Container_C' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:Colors' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:DefaultSceneRoot' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:Green' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:Red' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:Purple' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:Blue' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:UserConstructionScript' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:923][820]LogMetaData: Removing '/Game/LRJ/Container.Container_C:ColorSwitch' ref from Metadata '/Game/Container.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS:NewFunction_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:ReceiveInit' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:Block_ref_1_3' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:Block_ref_1_2' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:Block_ref_1_1' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:Container_ref' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:ColorNeed' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:MaxStep' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:Chapter' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:originalColor' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:Blocks_ref' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C:BlockNum' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.SKEL_GameINS_C' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:Block_ref_1_3' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:Block_ref_1_2' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:933][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:Block_ref_1_1' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:Container_ref' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:ColorNeed' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:MaxStep' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:Chapter' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:originalColor' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:Blocks_ref' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:BlockNum' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:934][820]LogMetaData: Removing '/Game/LRJ/GameINS.GameINS_C:ReceiveInit' ref from Metadata '/Game/GameINS.PackageMetaData'
+[2018.11.08-07.01.35:946][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.MirrorBlock_C' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.MirrorBlock:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.MirrorBlock:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.MirrorBlock:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.MirrorBlock:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.SKEL_MirrorBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.SKEL_MirrorBlock_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.SKEL_MirrorBlock_C:ReceiveTick' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.SKEL_MirrorBlock_C:DefaultSceneRoot' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.SKEL_MirrorBlock_C:UserConstructionScript' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.SKEL_MirrorBlock_C' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:947][820]LogMetaData: Removing '/Game/LRJ/MirrorBlock.MirrorBlock_C:DefaultSceneRoot' ref from Metadata '/Game/MirrorBlock.PackageMetaData'
+[2018.11.08-07.01.35:992][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/Block" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Block.uasset" SILENT=true
+[2018.11.08-07.01.36:096][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/Block7DF2B78D479096C1F46F96B4DB007DB7.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Block.uasset'
+[2018.11.08-07.01.36:109][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Block" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Block.uasset" SILENT=true
+[2018.11.08-07.01.36:133][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/BlockF1A110F944FBA6F5492E8BB82FF25FA9.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Block.uasset'
+[2018.11.08-07.01.36:145][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/Block_ref" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Block_ref.uasset" SILENT=true
+[2018.11.08-07.01.36:157][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/Block_ref6153CEE1451AB85059160ABE13ECF8D1.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Block_ref.uasset'
+[2018.11.08-07.01.36:173][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/Chapter1" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Chapter1.uasset" SILENT=true
+[2018.11.08-07.01.36:186][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/Chapter1295D50C54B8863530046A8BF86928AB8.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Chapter1.uasset'
+[2018.11.08-07.01.36:199][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/Container" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Container.uasset" SILENT=true
+[2018.11.08-07.01.36:247][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/ContainerA8CAFA7C4F732D51B19BF29AB369CE13.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Container.uasset'
+[2018.11.08-07.01.36:260][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Container" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Container.uasset" SILENT=true
+[2018.11.08-07.01.36:283][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/ContainerB3643A8C42E0FF653C4854A5C5F39A27.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Container.uasset'
+[2018.11.08-07.01.36:298][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/GameINS" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/GameINS.uasset" SILENT=true
+[2018.11.08-07.01.36:369][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/GameINSA1D5E7764FC0689E7D632188E4844222.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/GameINS.uasset'
+[2018.11.08-07.01.36:382][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameINS" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/GameINS.uasset" SILENT=true
+[2018.11.08-07.01.36:404][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/GameINS13E761EC47BC229F1F0227A95047A9E3.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/GameINS.uasset'
+[2018.11.08-07.01.36:420][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/MirrorBlock" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/MirrorBlock.uasset" SILENT=true
+[2018.11.08-07.01.36:436][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/MirrorBlock02EF9D0243412D235A5BE19733F82A81.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/MirrorBlock.uasset'
+[2018.11.08-07.01.36:477][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/NewPaperSprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/NewPaperSprite.uasset" SILENT=true
+[2018.11.08-07.01.36:493][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/NewPaperSprite215E51664D9E7A24EB82BBA6AE6599EC.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/NewPaperSprite.uasset'
+[2018.11.08-07.01.37:161][820]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/2DSideScrollerCharacter48E1A4A64A0DAA4F57CB90991C0B0BF3.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.11.08-07.01.50:113][586]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.11.08-07.01.50:128][586]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2018.11.08-07.01.50:159][586]Cmd: MAP LOAD FILE="../../../../../../unreal projects/MyFirst2DProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-07.01.50:159][586]LightingResults: New page: Lighting Build
+[2018.11.08-07.01.50:160][586]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2018.11.08-07.01.50:161][586]MapCheck: New page: Map Check
+[2018.11.08-07.01.50:161][586]LightingResults: New page: Lighting Build
+[2018.11.08-07.01.50:214][586]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-07.01.50:280][586]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-07.01.50:376][586]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.268ms to complete.
+[2018.11.08-07.01.50:377][586]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.219
+[2018.11.08-07.02.15:894][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/blue" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/blue.uasset" SILENT=true
+[2018.11.08-07.02.15:910][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/blueB84FF5C6414BBBD2AA75CA8AE28675D6.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/blue.uasset'
+[2018.11.08-07.02.15:930][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/blue_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/blue_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.15:944][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/blue_SpriteD2F951614F55F77CC2B3C2803FE51946.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/blue_Sprite.uasset'
+[2018.11.08-07.02.15:957][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/green" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/green.uasset" SILENT=true
+[2018.11.08-07.02.15:969][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/greenA43E35C64D87EAA25CBE528980D8F30E.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/green.uasset'
+[2018.11.08-07.02.15:992][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/green_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/green_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.16:007][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/green_SpriteEB95BF6445947F6A8514E09773B33DC5.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/green_Sprite.uasset'
+[2018.11.08-07.02.16:019][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/purple" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/purple.uasset" SILENT=true
+[2018.11.08-07.02.16:031][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/purpleBF3F5EEB4DB5FF1A979B93B99F084112.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/purple.uasset'
+[2018.11.08-07.02.16:049][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/purple_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/purple_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.16:063][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/purple_Sprite00FCD2D84DC860D2FEBD6795BFFE9460.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/purple_Sprite.uasset'
+[2018.11.08-07.02.16:075][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/red" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/red.uasset" SILENT=true
+[2018.11.08-07.02.16:087][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/red67BDD3094D663EDB14AF5EB55B89A464.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/red.uasset'
+[2018.11.08-07.02.16:106][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/2DTextures/red_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/red_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.16:130][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/red_SpriteC2BE7B574365C8747CBD4BBF4B1DBCDC.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/2DTextures/red_Sprite.uasset'
+[2018.11.08-07.02.17:046][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/Block" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Block.uasset" SILENT=true
+[2018.11.08-07.02.17:147][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/BlockBB82E98647C30849CCD17DB29CB8A6C3.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Block.uasset'
+[2018.11.08-07.02.17:156][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LRJ/Container" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Container.uasset" SILENT=true
+[2018.11.08-07.02.17:209][ 97]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/ContainerCD997FB74456AE17C93C879FE1C2C1A6.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/LRJ/Container.uasset'
+[2018.11.08-07.02.24:309][516]LogUObjectGlobals: Warning: Guid referenced by BrushComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.GlobalPostProcessSettings.BrushComponent0 is already used by BrushComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.GlobalPostProcessSettings.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-07.02.24:310][516]LogUObjectGlobals: Warning: Guid referenced by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.Background_Sprite_48.RenderComponent is already used by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Background_Sprite_48.RenderComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-07.02.24:310][516]LogUObjectGlobals: Warning: Guid referenced by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.LeftEdge.RenderComponent is already used by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.LeftEdge.RenderComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-07.02.24:310][516]LogUObjectGlobals: Warning: Guid referenced by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/selectLevel.selectLevel:PersistentLevel.RightEdge.RenderComponent is already used by PaperSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.RightEdge.RenderComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.11.08-07.02.24:315][516]LogAIModule: Creating AISystem for world selectLevel
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor:movePic.K2Node_Tunnel_1' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor:forLoopDelay.K2Node_Tunnel_1' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor:forLoopDelay.K2Node_Tunnel_0' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor:NewEventDispatcher_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor:movePic.K2Node_Tunnel_0' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:ReceiveActorOnInputTouchBegin' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:ReceiveActorOnInputTouchEnd' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:transformHide' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:gateValue' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:oldTransform' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:oldPosition' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:i' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:transformRight' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:transformMid' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:transformLeft' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:objectNumber' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:picState' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:DefaultSceneRoot' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:512][516]LogMetaData: Removing '/Game/Maps/choseActor.SKEL_choseActor_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:transformHide' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:gateValue' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:oldTransform' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:oldPosition' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:i' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:transformRight' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:transformMid' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:transformLeft' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:objectNumber' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:picState' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:DefaultSceneRoot' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:ReceiveActorOnInputTouchEnd' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:ReceiveActorOnInputTouchBegin' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:513][516]LogMetaData: Removing '/Game/Maps/choseActor.choseActor_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.02.24:721][516]LogMetaData: Removing '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.11.08-07.02.24:721][516]LogMetaData: Removing '/Game/Maps/2DSideScrollerExampleMap.SKEL_2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.11.08-07.02.24:913][516]LogMetaData: Removing '/Game/Maps/selectLevel.selectLevel_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/selectLevel.PackageMetaData'
+[2018.11.08-07.02.24:913][516]LogMetaData: Removing '/Game/Maps/selectLevel.SKEL_selectLevel_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/selectLevel.PackageMetaData'
+[2018.11.08-07.02.24:948][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/selectLevel_BuiltData" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/selectLevel_BuiltData.uasset" SILENT=true
+[2018.11.08-07.02.24:960][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/selectLevel_BuiltData472C7A5E411261DDE9B0F795A39C1582.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/selectLevel_BuiltData.uasset'
+[2018.11.08-07.02.24:971][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2DSideScrollerExampleMap_BuiltData" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/2DSideScrollerExampleMap_BuiltData.uasset" SILENT=true
+[2018.11.08-07.02.24:982][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/2DSideScrollerExampleMap_BuiltDa361E97804E76343D7CBBC0A87BCF195D.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2018.11.08-07.02.25:005][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/yellow_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/yellow_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.25:021][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/yellow_SpriteB918F6B744BF8DE96B44D99983576D56.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/yellow_Sprite.uasset'
+[2018.11.08-07.02.25:038][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/yellow" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/yellow.uasset" SILENT=true
+[2018.11.08-07.02.25:054][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/yellow97B0BE9F497BD04724B5DEBFB9EFE94B.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/yellow.uasset'
+[2018.11.08-07.02.25:072][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/red_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/red_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.25:087][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/red_SpriteCE6DF8FC4895D6B21FF0FDBF7ECEE0D7.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/red_Sprite.uasset'
+[2018.11.08-07.02.25:101][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/red" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/red.uasset" SILENT=true
+[2018.11.08-07.02.25:114][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/redB7C6B8424A8166D64FCA9489C7D37C1E.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/red.uasset'
+[2018.11.08-07.02.25:130][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/pink_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/pink_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.25:146][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/pink_Sprite06F8157840024242A20DC18CF001EE13.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/pink_Sprite.uasset'
+[2018.11.08-07.02.25:161][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/pink" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/pink.uasset" SILENT=true
+[2018.11.08-07.02.25:174][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/pink46DC9FA844869E82BCA690B7472A8230.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/pink.uasset'
+[2018.11.08-07.02.25:191][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/orange_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/orange_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.25:205][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/orange_Sprite397221614C0C7234528FEF9327C793FA.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/orange_Sprite.uasset'
+[2018.11.08-07.02.25:223][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/orange" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/orange.uasset" SILENT=true
+[2018.11.08-07.02.25:238][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/orangeFE7A10634AF66CDDEA11E3A66B069602.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/orange.uasset'
+[2018.11.08-07.02.25:263][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jiuselu_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/jiuselu_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.25:288][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/jiuselu_SpriteD434C8834C4B6DC9CBA6D2996128A576.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/jiuselu_Sprite.uasset'
+[2018.11.08-07.02.25:309][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/jiuselu" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/jiuselu.uasset" SILENT=true
+[2018.11.08-07.02.25:347][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/jiuseluD348FAD1433C913DFBAB478065AA83A7.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/jiuselu.uasset'
+[2018.11.08-07.02.25:366][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/green_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/green_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.25:384][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/green_SpriteCC239C82455630B1058911A052376CFA.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/green_Sprite.uasset'
+[2018.11.08-07.02.25:401][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/green" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/green.uasset" SILENT=true
+[2018.11.08-07.02.25:415][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/greenF74FC4E44116B8878D1CD79CA62FB54C.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/green.uasset'
+[2018.11.08-07.02.25:430][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/blue_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/blue_Sprite.uasset" SILENT=true
+[2018.11.08-07.02.25:444][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/blue_Sprite30C2BBDE4C219B42085016B40AA6EC6B.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/blue_Sprite.uasset'
+[2018.11.08-07.02.25:457][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/blue" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/blue.uasset" SILENT=true
+[2018.11.08-07.02.25:471][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/blue701C119344DB63C9115692A1D8E2E960.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/blue.uasset'
+[2018.11.08-07.02.25:480][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/choseActor" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/choseActor.uasset" SILENT=true
+[2018.11.08-07.02.25:622][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/choseActor3E5342AD4A8C5EA426259D84B9D56D29.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/choseActor.uasset'
+[2018.11.08-07.02.26:088][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/2DSideScrollerExampleMap89757D9A4031AC39427DD7B321BA53DF.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/2DSideScrollerExampleMap.umap'
+[2018.11.08-07.02.26:136][516]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.501
+[2018.11.08-07.02.26:244][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/selectLevel" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/Maps/selectLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.08-07.02.26:465][516]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/selectLevelEE99AA4640EDFAA1EA0D11B1C4F8E867.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/Maps/selectLevel.umap'
+[2018.11.08-07.02.26:481][516]LogFileHelpers: Saving map 'selectLevel' took 0.341
+[2018.11.08-07.03.08:675][915]LogMetaData: Removing '/Game/cxd/Maps/selectLevel.selectLevel_C' ref from Metadata '/Game/Maps/selectLevel.PackageMetaData'
+[2018.11.08-07.03.08:675][915]LogMetaData: Removing '/Game/cxd/Maps/selectLevel.SKEL_selectLevel_C' ref from Metadata '/Game/Maps/selectLevel.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:transformHide' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:gateValue' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:oldTransform' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:oldPosition' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:i' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:transformRight' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:transformMid' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:transformLeft' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:objectNumber' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:046][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:picState' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:DefaultSceneRoot' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:ReceiveActorOnInputTouchEnd' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:ReceiveActorOnInputTouchBegin' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor_C:UserConstructionScript' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:ReceiveActorOnInputTouchBegin' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:ReceiveActorOnInputTouchEnd' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:transformHide' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:gateValue' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:oldTransform' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:oldPosition' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:i' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:transformRight' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:transformMid' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:transformLeft' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:objectNumber' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:picState' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:DefaultSceneRoot' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.SKEL_choseActor_C:UserConstructionScript' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor:NewEventDispatcher_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor:forLoopDelay.K2Node_Tunnel_1' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor:forLoopDelay.K2Node_Tunnel_0' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor:movePic.K2Node_Tunnel_1' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:047][915]LogMetaData: Removing '/Game/cxd/Maps/choseActor.choseActor:movePic.K2Node_Tunnel_0' ref from Metadata '/Game/Maps/choseActor.PackageMetaData'
+[2018.11.08-07.03.09:250][915]LogMetaData: Removing '/Game/cxd/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' ref from Metadata '/Game/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.11.08-07.03.09:250][915]LogMetaData: Removing '/Game/cxd/Maps/2DSideScrollerExampleMap.SKEL_2DSideScrollerExampleMap_C' ref from Metadata '/Game/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.11.08-07.03.09:295][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/2DSideScrollerExampleMap_BuiltDaAD8AA99140985175B6C876A05EE4DB2B.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2018.11.08-07.03.09:305][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/selectLevel_BuiltData" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/selectLevel_BuiltData.uasset" SILENT=true
+[2018.11.08-07.03.09:316][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/selectLevel_BuiltData5FDE0C5A431C1D7A7533668276FAAAAF.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/selectLevel_BuiltData.uasset'
+[2018.11.08-07.03.09:414][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/selectLevel" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/selectLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.08-07.03.09:602][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/selectLevel439A51144E07751D2C957F83555907BA.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/selectLevel.umap'
+[2018.11.08-07.03.09:614][915]LogFileHelpers: Saving map 'selectLevel' took 0.289
+[2018.11.08-07.03.09:625][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/yellow_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/yellow_Sprite.uasset" SILENT=true
+[2018.11.08-07.03.09:641][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/yellow_Sprite39D77521474182724117C197399BF1FF.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/yellow_Sprite.uasset'
+[2018.11.08-07.03.09:656][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/yellow" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/yellow.uasset" SILENT=true
+[2018.11.08-07.03.09:669][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/yellow0C6BB49A41077113381E7895C52FD962.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/yellow.uasset'
+[2018.11.08-07.03.09:686][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/red_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/red_Sprite.uasset" SILENT=true
+[2018.11.08-07.03.09:701][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/red_Sprite97195CAC44CAB347CC9FD194846D27C9.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/red_Sprite.uasset'
+[2018.11.08-07.03.09:717][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/red" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/red.uasset" SILENT=true
+[2018.11.08-07.03.09:731][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/red149BFB1B43558A6D0F7EA2AC78ACE1A5.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/red.uasset'
+[2018.11.08-07.03.09:751][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/pink_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/pink_Sprite.uasset" SILENT=true
+[2018.11.08-07.03.09:765][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/pink_SpriteF989C65D4BBD055339ABC892F80F6FEC.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/pink_Sprite.uasset'
+[2018.11.08-07.03.09:783][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/pink" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/pink.uasset" SILENT=true
+[2018.11.08-07.03.09:797][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/pink4F9520404D8D01D2B1F2BD805A16F7FF.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/pink.uasset'
+[2018.11.08-07.03.09:814][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/orange_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/orange_Sprite.uasset" SILENT=true
+[2018.11.08-07.03.09:828][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/orange_SpriteB892D6AD49F728C8148BC3AC49C7833E.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/orange_Sprite.uasset'
+[2018.11.08-07.03.09:847][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/orange" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/orange.uasset" SILENT=true
+[2018.11.08-07.03.09:860][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/orange00868807407B752A34DC238563ABB401.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/orange.uasset'
+[2018.11.08-07.03.09:880][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/jiuselu_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/jiuselu_Sprite.uasset" SILENT=true
+[2018.11.08-07.03.09:904][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/jiuselu_Sprite9E22113F4316862C91D2FCA35B2029CF.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/jiuselu_Sprite.uasset'
+[2018.11.08-07.03.09:925][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/jiuselu" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/jiuselu.uasset" SILENT=true
+[2018.11.08-07.03.09:963][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/jiuseluFEF9DF4A4918651EB20CD89119569891.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/jiuselu.uasset'
+[2018.11.08-07.03.09:985][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/green_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/green_Sprite.uasset" SILENT=true
+[2018.11.08-07.03.09:999][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/green_SpriteE1E1107740E600AA9F23DBB96C74A967.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/green_Sprite.uasset'
+[2018.11.08-07.03.10:018][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/green" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/green.uasset" SILENT=true
+[2018.11.08-07.03.10:031][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/green74374AA249B76603913B89811DB86212.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/green.uasset'
+[2018.11.08-07.03.10:047][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/blue_Sprite" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/blue_Sprite.uasset" SILENT=true
+[2018.11.08-07.03.10:061][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/blue_Sprite0494A4884FC16BEDBE5EDAA3E1937DFC.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/blue_Sprite.uasset'
+[2018.11.08-07.03.10:077][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/blue" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/blue.uasset" SILENT=true
+[2018.11.08-07.03.10:089][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/blue8C0E31B246232D40FD175AB652B85EC3.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/blue.uasset'
+[2018.11.08-07.03.10:100][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cxd/Maps/choseActor" FILE="../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/choseActor.uasset" SILENT=true
+[2018.11.08-07.03.10:233][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/choseActor863A35F94F5E0953A3811F8658332720.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/choseActor.uasset'
+[2018.11.08-07.03.10:701][915]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/2DSideScrollerExampleMapFEC6AC5F475324FF2433C4919160FB6D.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/2DSideScrollerExampleMap.umap'
+[2018.11.08-07.03.10:745][915]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.499
+[2018.11.08-07.03.54:947][355]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/2DSideScrollerExampleMapFD4084604B42678182B563960C948899.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/2DSideScrollerExampleMap.umap'
+[2018.11.08-07.03.55:014][355]LogSavePackage: Moving '../../../../../../unreal projects/MyFirst2DProject/Saved/2DSideScrollerExampleMap_BuiltDa4E00283B416EA57891E3668E94B2954B.tmp' to '../../../../../../unreal projects/MyFirst2DProject/Content/cxd/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2018.11.08-07.03.57:097][472]LogSlate: Window 'MyFirst2DProject - Unreal Editor' being destroyed
+[2018.11.08-07.03.57:101][472]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.08-07.03.57:322][473]Cmd: QUIT_EDITOR
+[2018.11.08-07.03.57:522][473]LogExit: Preparing to exit.
+[2018.11.08-07.03.58:396][473]LogExit: Editor shut down
+[2018.11.08-07.03.58:397][473]LogExit: Transaction tracking system shut down
+[2018.11.08-07.03.58:857][473]LogExit: Object subsystem successfully closed.
+[2018.11.08-07.03.58:877][473]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.08-07.03.58:880][473]LogD3D11RHI: Shutdown
+[2018.11.08-07.03.58:880][473]LogD3D11RHI: CleanupD3DDevice
+[2018.11.08-07.03.58:881][473]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (618)
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.11.08-07.03.58:894][473]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.08-07.03.58:895][473]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.08-07.03.58:896][473]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.08-07.03.59:629][473]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.08-07.03.59:630][473]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.08-07.03.59:674][473]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.08-07.03.59:679][473]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.08-07.03.59:916][473]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.08-07.03.59:919][473]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.08-07.03.59:920][473]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.08-07.03.59:921][473]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.08-07.04.00:023][473]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.08-07.04.00:123][473]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.08-07.04.00:123][473]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.08-07.04.00:123][473]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.08-07.04.00:123][473]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.08-07.04.00:123][473]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.08-07.04.00:123][473]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.08-07.04.00:123][473]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.08-07.04.00:124][473]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.08-07.04.00:124][473]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.08-07.04.00:124][473]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.08-07.04.00:124][473]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.08-07.04.00:125][473]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.08-07.04.00:127][473]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.08-07.04.00:127][473]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.08-07.04.00:127][473]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.08-07.04.00:127][473]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.08-07.04.00:127][473]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.08-07.04.00:127][473]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.08-07.04.00:129][473]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.08-07.04.00:135][473]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.08-07.04.00:135][473]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.08-07.04.00:135][473]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.08-07.04.00:135][473]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.08-07.04.00:135][473]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.08-07.04.00:135][473]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.08-07.04.00:135][473]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.08-07.04.00:136][473]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.08-07.04.00:138][473]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.08-07.04.00:143][473]LogDerivedDataCache: Shutdown
+[2018.11.08-07.04.00:143][473]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.08-07.04.00:143][473]LogXGEController: Cleaning working directory: C:/Users/李仁杰/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.08-07.04.00:144][473]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.08-07.04.00:145][473]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.08-07.04.00:145][473]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.08-07.04.00:146][473]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.08-07.04.00:146][473]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.08-07.04.00:153][473]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.08-07.04.00:154][473]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.08-07.04.00:154][473]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.08-07.04.00:186][473]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.08-07.04.00:186][473]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.08-07.04.00:186][473]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3E5B866F-432C-47FF-8540-DFBACFA0B3AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=13d9fa7b41c1559305e9a79df4d54a11%7C96a361a4deaf442095fbbdfc4237100f%7C55280819-2524-4757-bde6-a0477dea7ea0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.08-07.04.00:204][473]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.08-07.04.00:205][473]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.08-07.04.00:206][473]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.08-07.04.00:206][473]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.08-07.04.00:207][473]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.08-07.04.00:217][473]LogExit: Exiting.
+[2018.11.08-07.04.00:243][473]Log file closed, 11/08/18 15:04:00
