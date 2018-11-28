@@ -12,7 +12,7 @@ test for using github by zjq at 11/27/16:22;
 
 maked by walker zjq lrj cxd
 
-## Finihed task
+## Finished task
 
 ### actor
 
@@ -32,3 +32,13 @@ maked by walker zjq lrj cxd
 ### Game Control
 
 * Game Manager
+
+## Level preview
+
+### Level 01
+
+![avatar](Content/Textures/Scene01.jpg)
+
+### Level 02
+
+![avatar](Content/Textures/Scene02.jpg)
